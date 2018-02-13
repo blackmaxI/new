@@ -1,0 +1,3 @@
+while true; do
+./lionguard start
+done
